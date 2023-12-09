@@ -16,5 +16,5 @@ Run simultaneously both:
 3. Both scripts should now produce output
 
 Troubleshoot:
-The scripts assume serial is enabled on /dev/ttyS0.
-If they don't work, check the RPi configurations.
+  The scripts assume serial is enabled on /dev/ttyS0.
+  If they don't work, check the RPi configurations.
